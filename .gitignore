@@ -1,0 +1,13 @@
+data/
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+*.vcf.gz
+*.vcf.gz.tbi
+*.bgz
+*.log
+*.Rhistory
+.Ds_Store
