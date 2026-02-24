@@ -46,8 +46,8 @@ workflow using public data:
 │   └── processed/    # Derived files (not committed)
 ├── results/
 │   ├── figures/      # Generated plots
-│   └── prsice/       # PRSice-2 output files
-└── logs/             # Run logs
+│   └── prsice/       # PRSice-2 output files (excluding files >100MB)
+└── logs/             # Run logs (not committed)
 ```
 
 ## How to Run (Mac/Linux)
