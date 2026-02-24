@@ -11,3 +11,4 @@ data/
 *.log
 *.Rhistory
 .Ds_Store
+results/prsice/BMI_prs.vaild
