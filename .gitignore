@@ -12,3 +12,5 @@ data/
 *.Rhistory
 .Ds_Store
 results/prsice/BMI_prs.vaild
+lib/
+tools/
